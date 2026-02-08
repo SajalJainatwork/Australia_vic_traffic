@@ -291,19 +291,5 @@ databricks_vic_traffic/
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-## 📞 Support & Contact
-
-For questions or issues:
-- Open a GitHub issue
-- Contact the data platform team
-- Review the technical documentation above
-
----
 
 **Built with ❤️ using Databricks, Delta Lake, and Unity Catalog**
